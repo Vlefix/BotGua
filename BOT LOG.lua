@@ -58,7 +58,7 @@ ip_add = {
 	"167.172.84.174",
 }
 
-hookURL = "https://discord.com/api/webhooks/1032179092189085696/hdTP7xpe9guhKdpzdKjAZRXCAPNP1DQuu2xahH1eJt2R87Yo_3VFaEAmz5ArpuoyH9N-"
+hookURL = "https://discord.com/api/webhooks/1032005134487670865/TrARFZokm-EtQ71g5j61OLShoQeQd_P76TkjLGLbdSxTD28Pf5H9BXdT_Y-ZOflIIKzd"
 
 Teks_Deskripsi = "List Nick Para Babu"
 Teks_Footer = "Golek Duit Kanggo Masa Depan"
